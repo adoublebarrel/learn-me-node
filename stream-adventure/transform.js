@@ -2,7 +2,7 @@
 
 var through = require('through');
 var upperCaseTransofrm = through(function write(data) {
-		this.queue(data.toString().toUpperCase());
+	this.queue(data.toString().toUpperCase());
 });
 
 process.stdin
