@@ -8,7 +8,7 @@ fs.readFile(filepath, 'utf8', countNewLines)
 function countNewLines (err, data) {
 
 	if (err) {
-		console.log("There was an errore: " + err);
+		console.log("There was an error: " + err);
 		return;
 	}
 
