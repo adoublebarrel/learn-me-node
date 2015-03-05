@@ -1,0 +1,1 @@
+This is a run through of the "how to npm" workshop provided by nodeschool.io.

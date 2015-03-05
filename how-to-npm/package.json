@@ -1,0 +1,13 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.1",
+  "description": "The how to npm workshop from nodeschool.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Alex Bransby-Williams",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": "https://github.com/adoublebarrel/learn-me-node/tree/master/how-to-npm"
+}
