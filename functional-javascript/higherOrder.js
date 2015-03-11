@@ -1,6 +1,5 @@
-"use strict"
-
 function repeat(operation, num) {
+	"use strict";
 	operation();
 
 	if (num > 1) {
